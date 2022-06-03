@@ -1,1 +1,1 @@
-# -
+# Likelion - Django project
